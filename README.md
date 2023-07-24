@@ -1,0 +1,2 @@
+# Magical
+Based on LangChain 
